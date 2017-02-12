@@ -186,7 +186,7 @@ current_track = 0
 n_tracks = len(music_files)
 paused = False
 start_time = 0.0
-sense.show_message("Hi Tim! Let's play some tunes!")
+sense.show_message("Hi! Let's play some tunes!")
 
 while True:
     pygame.mixer.music.load(music_files[current_track])
