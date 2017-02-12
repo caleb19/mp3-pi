@@ -1,0 +1,12 @@
+- Looks for .mp3 files in /home/pi/Music folder
+- u = pause / un-pause
+- d = show track name
+- r = skip to next track
+- l = skip to previous track
+- b = volume up
+- a = volume down
+- joystick up = skip back 15 seconds
+- joystick down = skip forwards 15 seconds
+- joystick right = next display pattern (there are 4)
+- joystick left = previous display pattern
+- joystick click = shuffle mode on / off
